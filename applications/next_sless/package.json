@@ -10,7 +10,7 @@
   "dependencies": {
     "atob": "^2.1.2",
     "formidable": "^1.2.2",
-    "jpeg-js": "^0.3.5",
+    "jpeg-js": "^0.4.0",
     "next": "10.0.1",
     "node-blob": "0.0.2",
     "node-fetch": "^2.6.1",
