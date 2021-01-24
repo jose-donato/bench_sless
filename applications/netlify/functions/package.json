@@ -1,0 +1,12 @@
+{
+    "name": "lambda",
+    "license": "MIT",
+    "dependencies": {
+        "atob": "^2.1.2",
+        "jpeg-js": "^0.4.2",
+        "node-blob": "0.0.2",
+        "pngjs": "^6.0.0",
+        "string-to-stream": "^3.0.1",
+        "node-fetch": "^2.6.1"
+    }
+}

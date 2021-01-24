@@ -1,0 +1,3 @@
+scenario,m2,m1,image type,image dimensions,outcome
+workers_sless,1382.092300002114,0,jpeg,640x960,success
+workers_sless,2899.4796000006318,7,jpeg,1920x2879,success

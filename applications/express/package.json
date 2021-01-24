@@ -1,0 +1,16 @@
+{
+    "name": "express",
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "atob": "^2.1.2",
+        "express": "^4.17.1",
+        "jpeg-js": "^0.4.2",
+        "node-blob": "0.0.2",
+        "pngjs": "^6.0.0",
+        "string-to-stream": "^3.0.1"
+    }
+}

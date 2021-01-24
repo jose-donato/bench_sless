@@ -1,0 +1,104 @@
+[
+    {
+        "framework": "next_sless",
+        "echo": {
+            "sum": 0.0,
+            "total": 0,
+            "mean": 0
+        },
+        "image": [
+            {
+                "size": "640x959",
+                "sum": 0.0,
+                "sumWhole": 0.0,
+                "total": 0,
+                "mean": 0,
+                "meanWhole": 0
+            },
+            {
+                "size": "1920x2878",
+                "sum": 0.0,
+                "sumWhole": 0.0,
+                "total": 0,
+                "mean": 0,
+                "meanWhole": 0
+            },
+            {
+                "size": "2400x3598",
+                "sum": 0.0,
+                "sumWhole": 0.0,
+                "total": 0,
+                "mean": 0,
+                "meanWhole": 0
+            }
+        ]
+    },
+    {
+        "framework": "netlify",
+        "echo": {
+            "sum": 5513.898199976211,
+            "total": 1009,
+            "mean": 5.464715758152836
+        },
+        "image": [
+            {
+                "size": "640x959",
+                "sum": 43043.55099999439,
+                "sumWhole": 49554.63459998646,
+                "total": 711,
+                "mean": 60.539452883255116,
+                "meanWhole": 69.69709507733678
+            },
+            {
+                "size": "1920x2878",
+                "sum": 0.0,
+                "sumWhole": 0.0,
+                "total": 0,
+                "mean": 0,
+                "meanWhole": 0
+            },
+            {
+                "size": "2400x3598",
+                "sum": 0.0,
+                "sumWhole": 0.0,
+                "total": 0,
+                "mean": 0,
+                "meanWhole": 0
+            }
+        ]
+    },
+    {
+        "framework": "express",
+        "echo": {
+            "sum": 0.0,
+            "total": 0,
+            "mean": 0
+        },
+        "image": [
+            {
+                "size": "640x959",
+                "sum": 0.0,
+                "sumWhole": 0.0,
+                "total": 0,
+                "mean": 0,
+                "meanWhole": 0
+            },
+            {
+                "size": "1920x2878",
+                "sum": 0.0,
+                "sumWhole": 0.0,
+                "total": 0,
+                "mean": 0,
+                "meanWhole": 0
+            },
+            {
+                "size": "2400x3598",
+                "sum": 0.0,
+                "sumWhole": 0.0,
+                "total": 0,
+                "mean": 0,
+                "meanWhole": 0
+            }
+        ]
+    }
+]

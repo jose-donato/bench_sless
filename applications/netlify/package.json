@@ -1,0 +1,35 @@
+{
+  "name": "gatsby-starter-hello-world",
+  "private": true,
+  "description": "A simplified bare-bones starter for Gatsby",
+  "version": "0.1.0",
+  "license": "0BSD",
+  "scripts": {
+    "start:gatsby": "gatsby develop",
+    "start": "yarn start:gatsby",
+    "build:gatsby": "gatsby build",
+    "prebuild": "cd lambda && yarn install",
+    "build": "yarn build:gatsby",
+    "serve": "gatsby serve",
+    "lint": "eslint 'src/**/*.js'",
+    "purge": "rm -rf node_modules && yarn",
+    "lambda-serve": "netlify-lambda serve functions --port 8888",
+    "lambda-build": "netlify-lambda build functions"
+  },
+  "dependencies": {
+    "atob": "^2.1.2",
+    "jpeg-js": "^0.4.2",
+    "node-blob": "0.0.2",
+    "pngjs": "^6.0.0",
+    "string-to-stream": "^3.0.1",
+    "node-fetch": "^2.6.1",
+    "netlify-lambda": "^1.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
